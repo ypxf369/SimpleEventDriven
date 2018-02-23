@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEventDriven.WebApi", "SimpleEventDriven.WebApi\SimpleEventDriven.WebApi.csproj", "{DDA8BB2D-FC2D-47E2-BA92-5508F88176B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA8BB2D-FC2D-47E2-BA92-5508F88176B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA8BB2D-FC2D-47E2-BA92-5508F88176B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA8BB2D-FC2D-47E2-BA92-5508F88176B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA8BB2D-FC2D-47E2-BA92-5508F88176B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {365D099F-B5C3-4835-8065-61A1C4101893}
+	EndGlobalSection
+EndGlobal
